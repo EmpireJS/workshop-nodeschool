@@ -1,7 +1,7 @@
 workshop-nodeschool
 ===================
 **Materials for EmpireNode 2014 nodeschool workshop**
-*hilarious GIF or silly image here*
+![school](http://media.giphy.com/media/1IDqrFySO6y1a/giphy.gif)
 
 [nodeschool.io](nodeschool.io) is a community driven, open source educational software that teaches various Node.js and JavaScript skills in an interactive, self-guided format. At EmpireNode, we'll be offering workshops for every skill level -- from Node beginners to a more seasoned challenge.
 
